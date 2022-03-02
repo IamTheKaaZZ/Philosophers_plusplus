@@ -1,0 +1,3 @@
+/home/bcosters/cpp_academy/philosophers/Build/CMakeFiles/edit_cache.dir
+/home/bcosters/cpp_academy/philosophers/Build/CMakeFiles/rebuild_cache.dir
+/home/bcosters/cpp_academy/philosophers/Build/CMakeFiles/philosopher.dir

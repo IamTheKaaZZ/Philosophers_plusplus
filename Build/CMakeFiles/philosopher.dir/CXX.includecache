@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bcosters/cpp_academy/philosophers/Philosopher.cpp
+Philosopher.hpp
+/home/bcosters/cpp_academy/philosophers/Philosopher.hpp
+
+/home/bcosters/cpp_academy/philosophers/Philosopher.hpp
+chrono
+-
+ctime
+-
+iomanip
+-
+iostream
+-
+memory
+-
+mutex
+-
+string
+-
+sys/time.h
+-
+thread
+-
+chrono
+-
+
